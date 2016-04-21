@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EC17FC86-57E5-7890-A55D-43688C01D5ED}") = "COMP305_Simple_3D_Game_JihoYoo", "Assembly-CSharp.csproj", "{E18A1043-BD36-7595-7275-C3F5480CADA7}"
+EndProject
+Project("{EC17FC86-57E5-7890-A55D-43688C01D5ED}") = "COMP305_Simple_3D_Game_JihoYoo", "Assembly-CSharp-Editor.csproj", "{64C35F85-08D2-4F7B-FE1D-A860A3076680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18A1043-BD36-7595-7275-C3F5480CADA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18A1043-BD36-7595-7275-C3F5480CADA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18A1043-BD36-7595-7275-C3F5480CADA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18A1043-BD36-7595-7275-C3F5480CADA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C35F85-08D2-4F7B-FE1D-A860A3076680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C35F85-08D2-4F7B-FE1D-A860A3076680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C35F85-08D2-4F7B-FE1D-A860A3076680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C35F85-08D2-4F7B-FE1D-A860A3076680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
